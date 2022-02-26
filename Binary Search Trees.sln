@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Binary Search Trees", "Binary Search Trees\Binary Search Trees.pyproj", "{E4B2CA6D-7A5D-4108-B63D-59DA3BFCDE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B2CA6D-7A5D-4108-B63D-59DA3BFCDE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B2CA6D-7A5D-4108-B63D-59DA3BFCDE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD2E09E-FBAA-421A-AB0C-DE3077F2D311}
+	EndGlobalSection
+EndGlobal
